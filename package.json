@@ -1,0 +1,41 @@
+{
+  "name": "quick_start",
+  "version": "1.0.0",
+  "description": "Build the project sturcture for the next one.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaouadi7/Quick_start.git"
+  },
+  "author": "Mohamed Ait Eljaouadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jaouadi7/Quick_start/issues"
+  },
+  "homepage": "https://github.com/Jaouadi7/Quick_start#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-image": "^6.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "merge-stream": "^2.0.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.11.2",
+    "bulma": "^0.8.0",
+    "html5shiv": "^3.7.3",
+    "jquery": "^3.4.1",
+    "owl.carousel": "^2.3.4",
+    "respond.js": "^1.4.2"
+  },
+  "browserslist": [
+    "last 2 versions",
+    "> 2%",
+    "IE 10"
+  ]
+}
